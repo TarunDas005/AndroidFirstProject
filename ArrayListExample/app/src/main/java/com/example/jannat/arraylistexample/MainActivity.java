@@ -124,4 +124,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+public void doTest(String p){
+//Borun Das
+}
 }
